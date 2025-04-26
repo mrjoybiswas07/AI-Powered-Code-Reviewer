@@ -76,6 +76,7 @@ An intelligent, web-based code review assistant that leverages AI to analyze cod
     
     *   Backend:
         ```bash
+        cd backend
         npx nodemon 
         
         
